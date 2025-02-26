@@ -148,3 +148,6 @@ div.list2 table{
     min-width: 190px;
 }
 
+*{
+    overflow: auto;
+}
